@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1000 1000">
+ <g transform="translate(0 -52.362)">
+  <path stroke-linejoin="round" d="m0 1052.4v-820h1e3v820z" stroke="#1E417B" stroke-width="20" fill="none"/>
+  <g fill-rule="evenodd" fill="#1E417B">
+   <path d="m80 992.36v-120h120v120z"/>
+   <path d="m80 992.36v-120h120v120z"/>
+   <path d="m260 992.36v-120h120v120z"/>
+   <path d="m440 992.36v-120h120v120z"/>
+   <path d="m620 992.36v-120h120v120z"/>
+   <path d="m800 992.36v-120h120v120z"/>
+   <path d="m80 822.36v-120h120v120z"/>
+   <path d="m80 822.36v-120h120v120z"/>
+   <path d="m260 822.36v-120h120v120z"/>
+   <path d="m440 822.36v-120h120v120z"/>
+   <path d="m620 822.36v-120h120v120z"/>
+   <path d="m800 822.36v-120h120v120z"/>
+   <path d="m80 652.36v-120h120v120z"/>
+   <path d="m80 652.36v-120h120v120z"/>
+   <path d="m260 652.36v-120h120v120z"/>
+   <path d="m440 652.36v-120h120v120z"/>
+   <path d="m620 652.36v-120h120v120z"/>
+   <path d="m800 652.36v-120h120v120z"/>
+   <path d="m80 482.36v-120h120v120z"/>
+   <path d="m80 482.36v-120h120v120z"/>
+   <path d="m260 482.36v-120h120v120z"/>
+   <path d="m440 482.36v-120h120v120z"/>
+   <path d="m620 482.36v-120h120v120z"/>
+   <path d="m800 482.36v-120h120v120z"/>
+  </g>
+  <path d="m280 302.36v-140" stroke="#1E417B" stroke-linecap="round" stroke-width="70" fill="none"/>
+  <path d="m720 302.36v-140" stroke="#1E417B" stroke-linecap="round" stroke-width="70" fill="none"/>
+ </g>
+</svg>
