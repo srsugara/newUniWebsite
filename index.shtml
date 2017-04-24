@@ -7,12 +7,23 @@
         <link rel="stylesheet" href="/index.css">
         <link rel="stylesheet" href="/navbar.css">
         <link rel="stylesheet" href="/footer.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+        <script src="/navbar.js"></script>
+        <script type='text/javascript'>
+        $(document).ready(function() {
+         $('img').each(function(){
+           var $img = $(this);
+           var filename = $img.attr('src')
+           $img.attr('alt', filename.substring(filename.lastIndexOf('/')+1, filename.lastIndexOf('.')));
+         });
+        });
+        </script>
     </head>
     <body>
         <div id="content">
             <!--#include virtual="/navbar.html" -->
         </div>
-        
+
         <!--#include virtual="/footer.html" -->
     </body>
 </html>
